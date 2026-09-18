@@ -1,3 +1,3 @@
 # testrepo
 learning repository
-This is where i would put anything i wanted someone to read.
+It's a markdown file in this repository
